@@ -1,0 +1,105 @@
+{
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:fortresses": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruined_portals": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:cities": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:strongholds": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2021-05-27 21:43:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2021-05-27 21:43:47 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

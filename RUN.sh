@@ -1,0 +1,2 @@
+cd /opt/mcserver/server
+java -Xmx8G -XX:+UseG1GC -XX:TargetSurvivorRatio=80 -XX:MaxTenuringThreshold=15 -XX:+DisableExplicitGC -XX:MaxGCPauseMillis=40 -XX:GCPauseIntervalMillis=150 -XX:ReservedCodeCacheSize=2048m -XX:CompileThreshold=1000 -Dfml.readTimeout=90 -Dfml.doNotBackup=true -Dfml.queryResult=confirm -Dforge.logging.console.level=debug -Dorg.jboss.netty.debug -jar forge*.jar -nogui
